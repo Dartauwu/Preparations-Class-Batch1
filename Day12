@@ -1,0 +1,21 @@
+a. ctrl + a = memilih semua file
+b. ctrl + b = slide bar 
+c. ctrl + c = copy file 
+d. ctrl + d = meyeleksi satu persatu kata yang kita inginkan 
+e. ctrl + e = mencari file di command palette
+f. ctrl + f = mencari kata yang ada di file
+g. ctrl + n = membuat file baru
+h. ctrl + o = membuka file 
+i. ctrl + s = menyimpan fiel / folder
+p. ctrl + p = menuju file 
+q. ctrl + Q = keluar
+v. ctrl + v = tempel 
+w. ctrl + w = keluar dari vscode dengan alert meyimpan perubaha atau tidak
+x. ctrl + x = cut
+y. ctrl + y = redo
+z. ctrl + z = undo
+
+1. ctrl + shift + n = membuka jendela baru
+2. ctrl + shift + s = meyimpan dengan menetukan tempat
+3. ctrl + shift + p = membuka command palette
+4. ctrl + shift + m = menampilkan error dan warnning
